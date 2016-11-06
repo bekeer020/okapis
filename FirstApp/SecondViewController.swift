@@ -37,9 +37,7 @@ class SecondViewController: UIViewController {
         
         
         
-        var x11:Int
-        x11=4
-        
+
         //       Here some thing hPEEND
         
         
