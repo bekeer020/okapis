@@ -34,6 +34,7 @@ class SecondViewController: UIViewController {
         if imagesArr.count==index{index=0}
         myImage.image=UIImage(named: imagesArr[index])
         index=index+1
+        //       Here some thing hPEEND
         
         
         let alert=UIAlertController(title: "Warning", message: "This is alert", preferredStyle: UIAlertControllerStyle.alert)
