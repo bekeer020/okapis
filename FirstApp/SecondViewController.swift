@@ -34,6 +34,12 @@ class SecondViewController: UIViewController {
         if imagesArr.count==index{index=0}
         myImage.image=UIImage(named: imagesArr[index])
         index=index+1
+        
+        
+        
+        var x11:Int
+        x11=4
+        
         //       Here some thing hPEEND
         
         
