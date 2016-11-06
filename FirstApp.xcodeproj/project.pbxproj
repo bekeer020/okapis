@@ -8,22 +8,36 @@
 
 /* Begin PBXBuildFile section */
 		3C18F6BC1DC6610200F91577 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C18F6BB1DC6610200F91577 /* AppDelegate.swift */; };
-		3C18F6BE1DC6610200F91577 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C18F6BD1DC6610200F91577 /* ViewController.swift */; };
 		3C18F6C11DC6610200F91577 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C18F6BF1DC6610200F91577 /* Main.storyboard */; };
 		3C18F6C41DC6610200F91577 /* FirstApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3C18F6C21DC6610200F91577 /* FirstApp.xcdatamodeld */; };
 		3C18F6C61DC6610200F91577 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C18F6C51DC6610200F91577 /* Assets.xcassets */; };
 		3C18F6C91DC6610200F91577 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C18F6C71DC6610200F91577 /* LaunchScreen.storyboard */; };
+		3C18F6D11DC666A800F91577 /* QKViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C18F6D01DC666A800F91577 /* QKViewController.swift */; };
+		3CD8C7811DC8E84200F8ED0B /* LWScreenShot 2016-01-07 at 3.23.42 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 3CD8C7801DC8E84200F8ED0B /* LWScreenShot 2016-01-07 at 3.23.42 PM.png */; };
+		3CD8C7831DC8E8F500F8ED0B /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD8C7821DC8E8F500F8ED0B /* SecondViewController.swift */; };
+		3CD8C7871DC8FD7500F8ED0B /* Apple 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3CD8C7841DC8FD7500F8ED0B /* Apple 1.jpg */; };
+		3CD8C7881DC8FD7500F8ED0B /* Apple 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3CD8C7851DC8FD7500F8ED0B /* Apple 2.jpg */; };
+		3CD8C7891DC8FD7500F8ED0B /* Apple 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3CD8C7861DC8FD7500F8ED0B /* Apple 3.jpg */; };
+		3CD8C78B1DC9002C00F8ED0B /* CalendarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD8C78A1DC9002C00F8ED0B /* CalendarViewController.swift */; };
+		3CD8C78D1DC9055100F8ED0B /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD8C78C1DC9055100F8ED0B /* WebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		3C18F6B81DC6610200F91577 /* FirstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C18F6BB1DC6610200F91577 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3C18F6BD1DC6610200F91577 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3C18F6C01DC6610200F91577 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3C18F6C31DC6610200F91577 /* FirstApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FirstApp.xcdatamodel; sourceTree = "<group>"; };
 		3C18F6C51DC6610200F91577 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C18F6C81DC6610200F91577 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C18F6CA1DC6610200F91577 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C18F6D01DC666A800F91577 /* QKViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QKViewController.swift; path = ../QKViewController.swift; sourceTree = "<group>"; };
+		3CD8C7801DC8E84200F8ED0B /* LWScreenShot 2016-01-07 at 3.23.42 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LWScreenShot 2016-01-07 at 3.23.42 PM.png"; sourceTree = "<group>"; };
+		3CD8C7821DC8E8F500F8ED0B /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		3CD8C7841DC8FD7500F8ED0B /* Apple 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Apple 1.jpg"; sourceTree = "<group>"; };
+		3CD8C7851DC8FD7500F8ED0B /* Apple 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Apple 2.jpg"; sourceTree = "<group>"; };
+		3CD8C7861DC8FD7500F8ED0B /* Apple 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Apple 3.jpg"; sourceTree = "<group>"; };
+		3CD8C78A1DC9002C00F8ED0B /* CalendarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarViewController.swift; sourceTree = "<group>"; };
+		3CD8C78C1DC9055100F8ED0B /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +70,16 @@
 		3C18F6BA1DC6610200F91577 /* FirstApp */ = {
 			isa = PBXGroup;
 			children = (
+				3CD8C7841DC8FD7500F8ED0B /* Apple 1.jpg */,
+				3CD8C7851DC8FD7500F8ED0B /* Apple 2.jpg */,
+				3CD8C7861DC8FD7500F8ED0B /* Apple 3.jpg */,
+				3CD8C7801DC8E84200F8ED0B /* LWScreenShot 2016-01-07 at 3.23.42 PM.png */,
+				3C18F6D01DC666A800F91577 /* QKViewController.swift */,
 				3C18F6BB1DC6610200F91577 /* AppDelegate.swift */,
-				3C18F6BD1DC6610200F91577 /* ViewController.swift */,
 				3C18F6BF1DC6610200F91577 /* Main.storyboard */,
+				3CD8C78C1DC9055100F8ED0B /* WebViewController.swift */,
+				3CD8C78A1DC9002C00F8ED0B /* CalendarViewController.swift */,
+				3CD8C7821DC8E8F500F8ED0B /* SecondViewController.swift */,
 				3C18F6C51DC6610200F91577 /* Assets.xcassets */,
 				3C18F6C71DC6610200F91577 /* LaunchScreen.storyboard */,
 				3C18F6CA1DC6610200F91577 /* Info.plist */,
@@ -127,6 +148,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3CD8C7881DC8FD7500F8ED0B /* Apple 2.jpg in Resources */,
+				3CD8C7811DC8E84200F8ED0B /* LWScreenShot 2016-01-07 at 3.23.42 PM.png in Resources */,
+				3CD8C7891DC8FD7500F8ED0B /* Apple 3.jpg in Resources */,
+				3CD8C7871DC8FD7500F8ED0B /* Apple 1.jpg in Resources */,
 				3C18F6C91DC6610200F91577 /* LaunchScreen.storyboard in Resources */,
 				3C18F6C61DC6610200F91577 /* Assets.xcassets in Resources */,
 				3C18F6C11DC6610200F91577 /* Main.storyboard in Resources */,
@@ -140,8 +165,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3CD8C78B1DC9002C00F8ED0B /* CalendarViewController.swift in Sources */,
+				3CD8C78D1DC9055100F8ED0B /* WebViewController.swift in Sources */,
+				3CD8C7831DC8E8F500F8ED0B /* SecondViewController.swift in Sources */,
 				3C18F6C41DC6610200F91577 /* FirstApp.xcdatamodeld in Sources */,
-				3C18F6BE1DC6610200F91577 /* ViewController.swift in Sources */,
+				3C18F6D11DC666A800F91577 /* QKViewController.swift in Sources */,
 				3C18F6BC1DC6610200F91577 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -265,6 +293,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 54V8U866HD;
 				INFOPLIST_FILE = FirstApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.alkhaleej.FirstApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -278,6 +307,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 54V8U866HD;
 				INFOPLIST_FILE = FirstApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.alkhaleej.FirstApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -304,6 +334,7 @@
 				3C18F6CF1DC6610200F91577 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
