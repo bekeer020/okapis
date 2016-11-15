@@ -17,6 +17,7 @@
 		3C6185601DD8D80400A30C79 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C61855F1DD8D80400A30C79 /* CustomTableViewCell.swift */; };
 		3C6185621DD8D9E600A30C79 /* CustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6185611DD8D9E600A30C79 /* CustomViewController.swift */; };
 		3C6185641DD8E03100A30C79 /* BusServ.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C6185631DD8E03100A30C79 /* BusServ.png */; };
+		3C6185661DDB744D00A30C79 /* JSONQKViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6185651DDB744D00A30C79 /* JSONQKViewController.swift */; };
 		3CA1B45D1DCF90E700529F22 /* TableSB.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CA1B45C1DCF90E700529F22 /* TableSB.storyboard */; };
 		3CA1B45F1DCF91DF00529F22 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA1B45E1DCF91DF00529F22 /* HomeTableViewController.swift */; };
 		3CA1B4611DCF9CC800529F22 /* SecondTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA1B4601DCF9CC800529F22 /* SecondTableViewController.swift */; };
@@ -46,6 +47,7 @@
 		3C61855F1DD8D80400A30C79 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		3C6185611DD8D9E600A30C79 /* CustomViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomViewController.swift; sourceTree = "<group>"; };
 		3C6185631DD8E03100A30C79 /* BusServ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BusServ.png; sourceTree = "<group>"; };
+		3C6185651DDB744D00A30C79 /* JSONQKViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSONQKViewController.swift; sourceTree = "<group>"; };
 		3CA1B45C1DCF90E700529F22 /* TableSB.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = TableSB.storyboard; sourceTree = "<group>"; };
 		3CA1B45E1DCF91DF00529F22 /* HomeTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeTableViewController.swift; path = Assets.xcassets/HomeTableViewController.swift; sourceTree = "<group>"; };
 		3CA1B4601DCF9CC800529F22 /* SecondTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondTableViewController.swift; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				3CA1B4631DCF9E2A00529F22 /* Italy.png */,
 				3CA1B4641DCF9E2A00529F22 /* Spain.png */,
 				3CA1B45C1DCF90E700529F22 /* TableSB.storyboard */,
+				3C6185651DDB744D00A30C79 /* JSONQKViewController.swift */,
 				3C6185611DD8D9E600A30C79 /* CustomViewController.swift */,
 				3C61855F1DD8D80400A30C79 /* CustomTableViewCell.swift */,
 				3CA1B4681DCFBF3B00529F22 /* JsonViewController.swift */,
@@ -216,6 +219,7 @@
 				3C6185601DD8D80400A30C79 /* CustomTableViewCell.swift in Sources */,
 				3C6185621DD8D9E600A30C79 /* CustomViewController.swift in Sources */,
 				3CD8C78D1DC9055100F8ED0B /* WebViewController.swift in Sources */,
+				3C6185661DDB744D00A30C79 /* JSONQKViewController.swift in Sources */,
 				3CA1B4691DCFBF3B00529F22 /* JsonViewController.swift in Sources */,
 				3CD8C7831DC8E8F500F8ED0B /* SecondViewController.swift in Sources */,
 				3C18F6C41DC6610200F91577 /* FirstApp.xcdatamodeld in Sources */,
